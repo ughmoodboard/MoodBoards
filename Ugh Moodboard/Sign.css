@@ -1,0 +1,68 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color: #ffc183;
+	border: 5px solid #E3FFBC;
+	padding-bottom: 400px;
+	width: 700px;
+	height: 960px;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	font-family: "Fugaz One";
+	font-size: 25px;
+}
+
+.banner1 {
+	position: relative;
+	top: 188px;
+	z-index: 2;
+}
+
+h2 {
+	position: relative;
+	top: 300px;
+	padding-right:180px;
+	text-align: right;
+	font-family: 'fugaz-one';
+	color: #303030;
+}
+
+.signup {
+	
+	position: absolute;
+	height: 980px;
+	width: 715px;
+	padding-bottom: 57px;
+
+}
+
+.icon {
+	position: absolute;
+	top: 255px;
+	left: 65px;
+	height: 81px;
+	width: 81px;
+}
+
+.form {
+	position: absolute;
+	font-family: 'DIN Alternate Bold';
+	display: inline-block;
+	font-size: 20px;
+	padding-top: 300px;
+	padding-left: 150px;
+	padding-right: 385px;
+	
+}
+
+
+.line {
+	position: absolute;
+	top: 250px;
+	padding-left: 70px;
+		
+}
+
